@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Carter",
+        "subject": "Physics 101",
+        "stars": 4,
+        "review": "Dr. Carter is very knowledgeable and her lectures are clear. However, the exams are tough and require thorough understanding."
+      },
+      {
+        "professor": "Dr. John Smith",
+        "subject": "History 201",
+        "stars": 5,
+        "review": "An excellent professor! Dr. Smith makes history come alive with his storytelling. Highly recommended."
+      },
+      {
+        "professor": "Dr. Linda Johnson",
+        "subject": "Chemistry 105",
+        "stars": 3,
+        "review": "Her lectures are informative but can be a bit dry. Labs are well-organized but expect a lot of work."
+      },
+      {
+        "professor": "Dr. Mark Wilson",
+        "subject": "Calculus 101",
+        "stars": 2,
+        "review": "The lectures are hard to follow, and the professor doesn't explain concepts well. I had to rely heavily on the textbook."
+      },
+      {
+        "professor": "Dr. Susan Brown",
+        "subject": "Biology 150",
+        "stars": 5,
+        "review": "Dr. Brown is passionate about biology and makes every class interesting. Her exams are fair and straightforward."
+      },
+      {
+        "professor": "Dr. William Davis",
+        "subject": "English Literature 202",
+        "stars": 4,
+        "review": "A good professor with a deep understanding of literature. Sometimes, the assignments can be a bit overwhelming."
+      },
+      {
+        "professor": "Dr. Karen Martinez",
+        "subject": "Sociology 101",
+        "stars": 5,
+        "review": "Dr. Martinez is an amazing lecturer who encourages critical thinking. The class discussions are always engaging."
+      },
+      {
+        "professor": "Dr. James Anderson",
+        "subject": "Psychology 101",
+        "stars": 3,
+        "review": "The course content is interesting, but Dr. Anderson can be a bit disorganized at times. Still, he is approachable and helpful."
+      },
+      {
+        "professor": "Dr. Robert Lee",
+        "subject": "Economics 102",
+        "stars": 4,
+        "review": "Dr. Lee is great at explaining complex economic theories in simple terms. His exams are challenging but fair."
+      },
+      {
+        "professor": "Dr. Patricia Taylor",
+        "subject": "Art History 200",
+        "stars": 5,
+        "review": "An incredible professor! Dr. Taylor's passion for art is contagious. Her lectures are a treat to attend."
+      },
+      {
+        "professor": "Dr. Michael Thomas",
+        "subject": "Philosophy 101",
+        "stars": 2,
+        "review": "The material is interesting, but Dr. Thomas's lectures are monotone and hard to follow. I struggled to stay engaged."
+      },
+      {
+        "professor": "Dr. Barbara White",
+        "subject": "Political Science 205",
+        "stars": 4,
+        "review": "Dr. White knows her stuff and is very organized. The coursework is heavy, but she is fair and offers plenty of help."
+      },
+      {
+        "professor": "Dr. Charles Harris",
+        "subject": "Statistics 101",
+        "stars": 3,
+        "review": "The professor is knowledgeable, but the course is very math-heavy. Make sure you have a good foundation in math."
+      },
+      {
+        "professor": "Dr. Angela Clark",
+        "subject": "Anthropology 150",
+        "stars": 5,
+        "review": "A fascinating course! Dr. Clark's enthusiasm for anthropology makes every class enjoyable. Highly recommend."
+      },
+      {
+        "professor": "Dr. Steven Lewis",
+        "subject": "Environmental Science 101",
+        "stars": 4,
+        "review": "Dr. Lewis is passionate about the environment and brings in real-world examples to make the content relatable. The workload is manageable."
+      },
+      {
+        "professor": "Dr. Jennifer Young",
+        "subject": "Music Theory 200",
+        "stars": 5,
+        "review": "Dr. Young is an expert in her field. Her classes are challenging but rewarding. She's also very supportive of her students."
+      },
+      {
+        "professor": "Dr. Richard King",
+        "subject": "Computer Science 101",
+        "stars": 3,
+        "review": "The course is difficult, and Dr. King moves quickly through the material. Make sure to keep up with the assignments."
+      },
+      {
+        "professor": "Dr. Nancy Walker",
+        "subject": "Ethics 101",
+        "stars": 4,
+        "review": "Dr. Walker is a great lecturer who encourages deep thinking. The class discussions are always interesting."
+      },
+      {
+        "professor": "Dr. Paul Scott",
+        "subject": "Business 200",
+        "stars": 5,
+        "review": "Dr. Scott's business course is practical and insightful. His real-world experience adds a lot of value to the lectures."
+      },
+      {
+        "professor": "Dr. Elizabeth Green",
+        "subject": "Astronomy 101",
+        "stars": 4,
+        "review": "A fascinating course! Dr. Green is very knowledgeable, and her passion for astronomy is evident. However, the exams are tough."
+      }
+    ]
+  }
+  
